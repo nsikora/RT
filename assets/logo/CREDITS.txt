@@ -1,0 +1,8 @@
+Icons made by https://www.elegantthemes.com/ from www.flaticon.com :
+	- access-denied
+	- bolt-silhouette
+	- checked-box
+	- document-page-with-text-lines
+	- edition-box
+	- old-camera-
+	- screwdriver-and-wrench-crossed

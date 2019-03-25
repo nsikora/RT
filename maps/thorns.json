@@ -1,0 +1,139 @@
+{
+	"ui":
+	{
+		"height": 600,
+		"width": 800
+	},
+	"camera":
+	{
+		"pos": [20, 0, 70],
+		"rot": [0, 0, 0]
+	},
+	"filter":
+	{
+		"border": "off",
+		"stereoscopy": "off",
+		"color": "red",
+		"post":  "off"
+	},
+	"texture":
+	{
+		"path":"assets/textures/beton/beton_NRM.bmp",
+		"path":"assets/textures/brick/brick_COLOR.bmp",
+		"path":"assets/textures/earth/earth_COLOR.bmp"
+	},
+	"sphere":
+	{
+		"pos": [20, 8, -5],
+		"color": [74, 100, 108, 255],
+		"scl": [5, 0, 0],
+		"rot": [0, 0, 0],
+		"spec": 50,
+		"texture": 2
+	},
+	"cone":
+	{
+		"pos": [43, 5, -15],
+		"rot": [180, 0, -45],
+		"scl": [0.18, 35, 0],
+		"color": [74, 100, 108, 255],
+		"spec": 50,
+		"trans": 2,
+		"refract": 0.5,
+		"reflect": 0.1,
+		"texture": -1,
+		"bumpmapping": -1
+	},
+	"cone":
+	{
+		"pos": [-15, 6, -55],
+		"rot": [180, 0, 45],
+		"scl": [0.1, 35, 1],
+		"color": [74, 100, 108, 255],
+		"spec": 50,
+		"trans": 2,
+		"refract": 0.5,
+		"reflect": 0.1,
+		"texture": -1,
+		"bumpmapping": -1
+	},
+	"cone":
+	{
+		"pos":[22, 0, -65],
+		"rot": [180, -45, 45],
+		"scl": [0.1, 35, 1],
+		"color": [74, 100, 108, 255],
+		"spec": 50,
+		"trans": 2,
+		"refract": 0.5,
+		"reflect": 0.1,
+		"texture": -1,
+		"bumpmapping": -1
+	},
+	"cone":
+	{
+		"pos": [20, 0, -55],
+		"rot": [180, 45, -45],
+		"scl": [0.1, 35, 1],
+		"color": [74, 100, 108, 255],
+		"spec": 50,
+		"trans": 2,
+		"refract": 0.5,
+		"reflect": 0.1,
+		"texture": -1,
+		"bumpmapping": -1
+	},
+	"cone":
+	{
+		"pos": [8, -3,	-14],
+		"rot": [180, 45, 45],
+		"scl": [0.17, 15, 1],
+		"color": [74, 100, 108, 255],
+		"spec": 50,
+		"trans": 2,
+		"refract": 0.5,
+		"reflect": 0.1,
+		"texture": -1,
+		"bumpmapping": -1
+	},
+	"cone":
+	{
+		"pos": [11, -7, 10],
+		"rot": [180, 0, -45],
+		"scl": [0.17, 15, 1],
+		"color": [74, 100, 108, 255],
+		"spec": 50,
+		"trans": 2,
+		"refract": 0.5,
+		"reflect": 0.1,
+		"texture": -1,
+		"bumpmapping": -1
+	},
+	"plane":
+	{
+		"pos": [-119, -15, 0],
+		"rot": [90, 0, 0],
+		"scl": [0, 0, 0],
+		"color": [255, 153, 0, 255],
+		"spec": 50,
+		"trans": -1,
+		"refract": -1,
+		"reflect": -1,
+		"texture": -1,
+		"bumpmapping": 0
+	},
+	"light":
+	{
+		"pos": [0, 100, 0],
+		"dir": [0, 0, 0],
+		"color": [255, 255, 255],
+		"intensity": 0.5
+	},
+	"light":
+	{
+		"pos": [56, 17, 0],
+		"dir": [0, 0, 0],
+		"color": [255, 255, 255],
+		"intensity": 0.2
+	}
+}
